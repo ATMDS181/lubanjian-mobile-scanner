@@ -1,0 +1,6 @@
+*.exe
+*.msi
+*.zip
+*.apk
+assets/*.psd
+release_assets/

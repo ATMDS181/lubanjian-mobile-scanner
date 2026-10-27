@@ -60,8 +60,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| `Lubanjian-Setup-1.0.0.exe` | **安装版（推荐）**，约 180 MB，带安装向导 |
-| `Lubanjian-Portable-1.0.0.exe` | 单文件绿色版，约 136 MB，双击即用 |
+| `Lubanjian-Setup-1.0.0.exe` | **安装版**，约 180 MB，带安装向导，内含完整程序 |
 | `UserGuide-zh.txt` | 完整操作步骤与常见问题 |
 | `cleanup.bat` / `cleanup.ps1` | 一键清理并卸载（换机或回收时用） |
 
